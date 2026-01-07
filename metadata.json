@@ -1,0 +1,8 @@
+{
+  "name": "CaseStream - AI Success Story Showcase",
+  "description": "An interactive, Instagram-styled portal for exploring and searching company success stories using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
